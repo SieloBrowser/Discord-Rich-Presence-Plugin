@@ -5,6 +5,7 @@ Sielo is a web browser that I began to develop a year and a half ago. The browse
 
 # What's Discord Rich Presence Plugin
 ![Discord Rich Presence](https://cdn.discordapp.com/attachments/431827990561947649/528707571423510568/presence-blue.png)
+
 This plugin is a simple plugin which allow you to have a rich presence in your Discord profile while using Sielo. It comes with some settings to customize the text and even the icon!
 
 ![Discord Rich Presence Settings](https://cdn.discordapp.com/attachments/431728501159362560/528726382780481537/unknown.png)
