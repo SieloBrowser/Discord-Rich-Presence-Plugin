@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/aboutsielo.png</file>
+	    <file>images/ic_sielo.png</file>
+        <file>images/ic_discord.svg</file>
+
+        <file>images/presence-blue.png</file>
+        <file>images/presence-normal.png</file>
+    </qresource>
+</RCC>
