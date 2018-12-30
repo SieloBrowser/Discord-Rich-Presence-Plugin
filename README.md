@@ -3,6 +3,8 @@ Sielo is a web browser that I began to develop a year and a half ago. The browse
 
 > You can join our [Discord server](https://discord.gg/7MVvDaS).
 
-# What's Demo Plugin
-Demo Plugin is a simple plugin made to show how to create plugins for [Sielo browser](https://github.com/SieloBrowser/SieloBrowser).
-The code is commented to make it easy to understant. I also advise you to go check the [Sielo's wiki](https://github.com/SieloBrowser/SieloBrowser/wiki) to learn how to make plugin!"# Discord-Rich-Presence-Plugin" 
+# What's Discord Rich Presence Plugin
+![Discord Rich Presence](https://cdn.discordapp.com/attachments/431827990561947649/528707571423510568/presence-blue.png)
+This plugin is a simple plugin which allow you to have a rich presence in your Discord profile while using Sielo. It comes with some settings to customize the text and even the icon!
+
+![Discord Rich Presence Settings](https://cdn.discordapp.com/attachments/431728501159362560/528726382780481537/unknown.png)
